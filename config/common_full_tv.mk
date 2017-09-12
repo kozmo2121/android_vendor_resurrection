@@ -7,3 +7,5 @@ ifeq ($(TARGET_SCREEN_WIDTH) $(TARGET_SCREEN_HEIGHT),$(space))
 endif
 
 PRODUCT_PACKAGES += TvSettings
+
+DEVICE_PACKAGE_OVERLAYS += vendor/cm/overlay/tv
