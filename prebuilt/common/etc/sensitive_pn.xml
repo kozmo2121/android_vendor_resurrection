@@ -140,6 +140,25 @@
     <sensitivePN network="268">
         <item>800202148</item>
         <item>116006</item>
+        <item>116111</item>
+        <item>116123</item>
+    </sensitivePN>
+    <!--Malta-->
+    <sensitivePN network="278">
+        <item>116111</item>
+        <item>116123</item>
+    </sensitivePN>
+    <!--Cyprus-->
+    <sensitivePN network="280">
+        <item>116111</item>
+        <item>116123</item>
+    </sensitivePN>
+    <!--Bulgaria-->
+    <sensitivePN network="284">
+        <item>029817686</item>
+        <item>080018676</item>
+        <item>080020100</item>
+        <item>116111</item>
     </sensitivePN>
     <!--Turkey-->
     <sensitivePN network="286">
